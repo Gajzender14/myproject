@@ -1,0 +1,8 @@
+# Model checkpoints and weights
+*.pt
+*.pth
+*.safetensors
+
+# Common companion files often saved alongside checkpoints
+*.ckpt
+*.bin
