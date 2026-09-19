@@ -1,1 +1,1 @@
-print("Jai Bhavani !!")
+print("Veer Bhagya Vasundhra !!")
